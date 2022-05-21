@@ -22,5 +22,5 @@ The provider functions must be exported to instance values in other packages.
 
 1. Specify the dependencies with params.
 2. Return errors.
-3. Create group of provider sets
-4. Add others providers into provider sets
+3. Create group of provider sets.
+4. Add others providers into provider sets.
