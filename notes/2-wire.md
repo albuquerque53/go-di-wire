@@ -10,5 +10,5 @@ Wire is a code generation tool that automates connecting components using depend
 
 ### Why use Wire?
 
-1. As said, `Wire` is a **code generation** tool, means that the generated code is **obvious** and **readable**
+1. As said, `Wire` is a **code generation** tool, means that the generated code is **obvious** and **readable**.
 2. `Wire` runs in **compile-time**, this provide-us an easy debug. If any dependency is missing or being unused, an error will be reported during compiling.
